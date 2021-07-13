@@ -1,0 +1,12 @@
+.body_backgorund {
+    background-image: url(hOye.gif);
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: #FFFFFF;
+    border-style: ridge;
+    border-color: #9F003D;
+}
